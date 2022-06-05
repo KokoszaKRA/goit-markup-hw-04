@@ -100,11 +100,11 @@ img {
 }
 
 .orders.orders-photo{
-  background-image: 
-  linear-gradient( rgba(47, 48, 58, 0.4), 
-  rgba(47, 48, 58, 0.4)),
-  url(/images/order-foto/Img.jpg),
-   url(/images/order-foto/Img\ Overlay.png);
+  background-image: url(/images/order-foto/Img.jpg);
+  /* linear-gradient( rgba(47, 48, 58, 0.4), 
+  rgba(47, 48, 58, 0.4)), */
+  /* ,
+   url(/images/order-foto/Img\ Overlay.png); */
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
